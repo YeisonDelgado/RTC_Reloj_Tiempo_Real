@@ -1,0 +1,8 @@
+|RelojRealTIME
+clk => synthesized_var_for_JKFF_inst.CLK
+Q0 << synthesized_var_for_JKFF_inst.DB_MAX_OUTPUT_PORT_TYPE
+Q1 << synthesized_var_for_SYNTHESIZED_WIRE_23.DB_MAX_OUTPUT_PORT_TYPE
+Q2 << synthesized_var_for_JKFF_inst2.DB_MAX_OUTPUT_PORT_TYPE
+Q3 << synthesized_var_for_JKFF_inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+
